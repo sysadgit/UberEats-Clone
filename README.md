@@ -6,7 +6,7 @@ GoferEats, developed by Trioangle Technologies, has successfully served the requ
 
 <b>Support</b>
 
-When it comes to developing an app like UberEats, Trioangle is your ideal partner. We provide 24x7 support to ensure your success. Feel free to <a href = "sales@trioangle.com">contact us</a> at any time, and we will get back to you soon.
+When it comes to developing an app like UberEats, Trioangle is your ideal partner. We provide 24x7 support to ensure your success. Feel free to <a href = "mailto: sales@trioangle.com">contact us</a> at any time, and we will get back to you soon.
 
 <b>Features</b>
 
